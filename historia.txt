@@ -4,4 +4,8 @@ Sí señores.
 
 Mañana nos enfocaremos en el inicio.
 
+<<<<<<< HEAD
 Master 2.
+=======
+Experimento 1.
+>>>>>>> 876ee66... Exp 1
